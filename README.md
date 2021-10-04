@@ -13,7 +13,7 @@ COVID mAPP is a mobile, user-friendly app that offers up-to-date COVID-19 risk s
 # Team. Ninja developers 
 ![ninja devs](https://user-images.githubusercontent.com/87050973/135779763-8a0eea0e-f246-40d2-a55d-db01ca505e8f.png)
 # Additional documentation
-![covid mAPP Presentation (2)](https://user-images.githubusercontent.com/87050973/135785242-890ef67b-4e15-447a-8509-e578c3feae13.png)
+![covid mAPP Presentation (3)](https://user-images.githubusercontent.com/87050973/135785433-18a1f38a-b57f-40fc-bf55-6bc47b5a701d.png)
 ![10](https://user-images.githubusercontent.com/87050973/135785262-4d6531ae-a48a-47a8-9c83-20fe58276762.png)
 ![11](https://user-images.githubusercontent.com/87050973/135785263-1b1cdfd2-2304-493b-9634-dc35576ea220.png)
 ![12](https://user-images.githubusercontent.com/87050973/135785266-5f38e7e6-00b1-404d-a013-7fe3d8e90e0a.png)
