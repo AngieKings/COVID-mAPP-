@@ -1,5 +1,6 @@
-# COVID-mAPP-
+# COVID-mAPP
 COVID mAPP is a mobile, user-friendly app that offers up-to-date COVID-19 risk status based on NASA's data regarding the topic. Alongside the user-provided information, covid mAPP gives personalized advice on COVID-19 prevention actions. These are important to increase social awareness and contribute to early COVID-19 cases detection.
+
 ![covid mAPP Presentation (1)](https://user-images.githubusercontent.com/87050973/135779513-c760b6f6-7d35-45e5-b42f-3a10b59f4115.png)
 # Project DEMO
 ![1](https://user-images.githubusercontent.com/87050973/135779549-e46a7e6b-4bd3-4ace-9338-5b94db0259d9.png)
