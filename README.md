@@ -27,3 +27,5 @@ If you are one of the organizations listed in paragraph 2 above and are interest
 [How COVID-19 spreads.pdf](https://github.com/AngelicaRubioReyes/COVID-mAPP-/files/7281803/How.COVID-19.spreads.pdf)
 # TIKTOK
 https://vm.tiktok.com/ZMRKW65kp/
+# COVID mAPP
+https://apps.powerapps.com/play/73c6bd53-0034-42c4-8eff-e0504eca7d57?tenantId=4ae54b05-b77e-4224-aef1-8661422e0816
